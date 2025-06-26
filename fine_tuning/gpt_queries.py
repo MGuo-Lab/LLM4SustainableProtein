@@ -7,7 +7,7 @@ model_name = 'gpt-4.1-2025-04-14'
 temp = 0.0
 
 # Load your API key securely
-client = OpenAI(api_key='YOUR-API-KEY')
+client = OpenAI(api_key='YOUR-API-KEY')  # Change to your own OpenAI API key
 
 # Specify microbial strain
 microbe_strain = 'Thermomonospora fusca'
