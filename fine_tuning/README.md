@@ -7,10 +7,10 @@ The following scripts and data files are included:
 | File Name                        | Description                                 |
 |----------------------------------|---------------------------------------------|
 | `README.md`                      | Project overview and documentation          |
-| `pdf_text_extraction.py`         | Script to extract and refine PDF file text  |
+| `pdf_text_extraction.py`         | Script to extract and refine text from a PDF file  |
 | `example_paper_vaswani_2017.pdf` | Example open-access paper PDF file*         |
-| `gpt_queries.py`                 | Script to query a GPT with prompts, via API |
-| `gpt_fine_tuning.py`             | Script to fine-tune GPT model, via API      |
+| `gpt_queries.py`                 | Script to query a GPT model with prompts, via OpenAI API |
+| `gpt_fine_tuning.py`             | Script to fine-tune GPT model, via the OpenAI API      |
 | `prompts_table.tsv`              | Tablular data of prompts for fine-tuning**  |
 | `SBERT_cosine_similarity.py`     | Script for calculating text cosine similarity, using pre-trained transformers. |
 
