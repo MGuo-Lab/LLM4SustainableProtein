@@ -1,6 +1,6 @@
 # LLM4SustainableProtein
 
-Welcome to the Guo Lab's repository for LLM4SustainableProtein. Here, various scripts and data files may be found, which were used in [our preliminary research](https://doi.org/10.48550/arXiv.2506.20598), where we developed a RAG-based multi-agent AI system, for assisting in information retrieval tasks relevant to sustainable protein production.
+Welcome to the Guo Lab's repository for LLM4SustainableProtein. Here, various scripts and data files are published, developed as part of [our preliminary research](https://doi.org/10.48550/arXiv.2506.20598) where we developed a RAG-based multi-agent AI system, for assisting in information retrieval tasks relevant to sustainable protein production.
 
 This multi-agent AI system was developed as a proof-of-concept, generously funded and supported by the Bezos Earth Fund, through a
 Phase I grant under the AI Grand Challenge for Climate and Nature.
