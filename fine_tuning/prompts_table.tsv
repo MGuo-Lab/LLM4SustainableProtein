@@ -1,0 +1,1558 @@
+index	prompt	ideal_response	assignment
+69	"For the genus species Chlamydomonas sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+21	"For the genus species Cupriavidus necator, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+71	"For the genus species Chlorella pyrenoidosa, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+72	"For the genus species Chlorella sorokiniana, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+0	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+25	"For the genus species Methylomonas methylotrophus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+37	"For the genus species Haloarcula sp. IRU1, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+38	"For the genus species Yarrowia lipolytica, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+11	"For the genus species Acromobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+41	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+80	"For the genus species Nostoc sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+55	"For the genus species Escherichia coli, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+78	"For the genus species Desmodesmus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+44	"For the genus species Aspergillus ochraceus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+13	"For the genus species Aspergillus fumigatus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+4	"For the genus species Chaetomium cellulolyticum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+19	"For the genus species Candida utilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+27	"For the genus species Pseudomonas fluorescens, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+36	"For the genus species Debaryomyces hansenii, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+66	"For the genus species Aquificales sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+16	"For the genus species Candida tropicalis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+76	"For the genus species Chlorobium sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+76	"For the genus species Chlorobium sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+29	"For the genus species Rhodobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+30	"For the genus species Rhodovulum sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+12	"For the genus species Aeromonas hydrophila, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+40	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+49	"For the genus species Bacillus subtilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+29	"For the genus species Rhodobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+67	"For the genus species Arthrospira maxima, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+10	"For the genus species Acinetobacter calcoacenticus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+87	"For the genus species Brevibacillus agri, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+6	"For the genus species Flavobacterium sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+86	"For the genus species Aneurinibacillus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+70	"For the genus species Chlorella pyrenoidosa, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+32	"For the genus species Torula sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+17	"For the genus species Candida tropicalis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+75	"For the genus species Chlorella vulgaris, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+31	"For the genus species Saccharomyces cerevisiae, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+8	"For the genus species Thermomonospora fusca, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+52	"For the genus species Candida utilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+26	"For the genus species Penicillium cyclopium, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+19	"For the genus species Candida utilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+75	"For the genus species Chlorella vulgaris, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+24	"For the genus species Methylomonas clara, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+69	"For the genus species Chlamydomonas sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+14	"For the genus species Bacillus megaterium, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+23	"For the genus species Lactobacillus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+3	"For the genus species Cellulomonas sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+18	"For the genus species Candida utilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+35	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+9	"For the genus species Trichoderma viride, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+80	"For the genus species Nostoc sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+7	"For the genus species Scytalidium acidophilum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+61	"For the genus species Penicillium citrinum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+33	"For the genus species Xanthobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+79	"For the genus species Euglena gracilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+56	"For the genus species Fusarium semitectum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+90	"For the genus species Ralstonia sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+54	"For the genus species Cladosporium cladosporioides, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+39	"For the genus species Aspergillus flavus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+50	"For the genus species Candida crusei, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+63	"For the genus species Trichoderma harzianum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+43	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+66	"For the genus species Aquificales sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+60	"For the genus species Monascus ruber, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+89	"For the genus species Methylomonas sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+73	"For the genus species Chlorella sorokiniana, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+38	"For the genus species Yarrowia lipolytica, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+58	"For the genus species Kluyveromyces marxianus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+45	"For the genus species Bacillus cereus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+83	"For the genus species Scenedesmus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+57	"For the genus species Hanseniaspora uvarum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+30	"For the genus species Rhodovulum sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+58	"For the genus species Kluyveromyces marxianus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+62	"For the genus species Saccharomyces cerevisiae, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+77	"For the genus species Chondrus crispus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+33	"For the genus species Xanthobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+28	"For the genus species Rhizopus chinensis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+1	"For the genus species Aspergillus oryzae, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+51	"For the genus species Candida tropicalis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+21	"For the genus species Cupriavidus necator, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+2	"For the genus species Bacillus subtilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+22	"For the genus species Fusarium venenatum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+82	"For the genus species Scenedesmus obliquus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+72	"For the genus species Chlorella sorokiniana, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+81	"For the genus species Porphyridium sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+78	"For the genus species Desmodesmus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	test
+20	"For the genus species Corynebacterium ammoniagenes, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+59	"For the genus species Kluyveromyces marxianus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+70	"For the genus species Chlorella pyrenoidosa, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+15	"For the genus species Candida intermedia, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	val
+88	"For the genus species Methylococcus capsulatus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+50	"For the genus species Candida crusei, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	The literature provided does not contain the requested information, for the microbial species specified.	train
+0	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Cellulose, hemicellulose, substrate class: Lignocellulosic resource	train
+1	"For the genus species Aspergillus oryzae, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Cellulose, hemicellulose, substrate class: Lignocellulosic resource	train
+2	"For the genus species Bacillus subtilis , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Cellulose, hemicellulose, substrate class: Lignocellulosic resource	train
+3	"For the genus species Cellulomonas sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Cellulose, hemicellulose, substrate class: Lignocellulosic resource	val
+4	"For the genus species Chaetomium cellulolyticum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Cellulose, hemicellulose, substrate class: Lignocellulosic resource	test
+6	"For the genus species Flavobacterium sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Cellulose, hemicellulose, substrate class: Lignocellulosic resource	train
+7	"For the genus species Scytalidium acidophilum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Cellulose, pentose, substrate class: Lignocellulosic resource	train
+8	"For the genus species Thermomonospora fusca, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Cellulose, hemicellulose, substrate class: Lignocellulosic resource	train
+9	"For the genus species Trichoderma viride, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Cellulose, pentose, substrate class: Lignocellulosic resource	train
+10	"For the genus species Acinetobacter calcoacenticus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Ethanol, substrate class: Food-grade carbon source	train
+11	"For the genus species Acromobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: n-alkanes, substrate class: Food-grade carbon source	train
+12	"For the genus species Aeromonas hydrophila, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Lactose, substrate class: Food-grade carbon source	test
+13	"For the genus species Aspergillus fumigatus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Maltose, glucose, substrate class: Food-grade carbon source	train
+14	"For the genus species Bacillus megaterium, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: non-protein nitrogenous compound, substrate class: Food-grade carbon source	val
+15	"For the genus species Candida intermedia, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Lactose, substrate class: Food-grade carbon source	val
+16	"For the genus species Candida tropicalis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 56, trophic mechanism: Hetero, reported substrate: Molasses , substrate class: Food-grade carbon source	train
+17	"For the genus species Candida tropicalis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Maltose, glucose, substrate class: Food-grade carbon source	train
+18	"For the genus species Candida utilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Glucose, substrate class: Food-grade carbon source	val
+19	"For the genus species Candida utilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Hetero, reported substrate: Acetate, oxygen, ammonia, substrate class: Food-grade carbon source	train
+20	"For the genus species Corynebacterium ammoniagenes, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 61, trophic mechanism: Hetero, reported substrate: Glucose+fructose , substrate class: Food-grade carbon source	train
+21	"For the genus species Cupriavidus necator, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 40 to 46, trophic mechanism: Hetero, reported substrate: synthetic growth medium, substrate class: Food-grade carbon source	train
+22	"For the genus species Fusarium venenatum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 44, trophic mechanism: Hetero, reported substrate: Glucose , substrate class: Food-grade carbon source	train
+23	"For the genus species Lactobacillus sp. , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Glucose, amylose, maltose, substrate class: Food-grade carbon source	train
+24	"For the genus species Methylomonas clara , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Methanol, substrate class: Food-grade carbon source	train
+25	"For the genus species Methylomonas methylotrophus , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Methanol, substrate class: Food-grade carbon source	train
+26	"For the genus species Penicillium cyclopium, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Glucose, Lactose, Galactose , substrate class: Food-grade carbon source	train
+27	"For the genus species Pseudomonas fluorescens, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 80, trophic mechanism: Hetero, reported substrate: Uric acid, substrate class: Food-grade carbon source	train
+28	"For the genus species Rhizopus chinensis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Glucose, Maltose, substrate class: Food-grade carbon source	test
+29	"For the genus species Rhodobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Hetero, reported substrate: Acetate, Hydrogen, Nitrogen, Light, oxygen, substrate class: Food-grade carbon source	val
+30	"For the genus species Rhodovulum sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Hetero, reported substrate: Acetate, Hydrogen, Nitrogen, Light, oxygen, substrate class: Food-grade carbon source	test
+31	"For the genus species Saccharomyces cerevisiae, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Lactose, pentose, maltose, substrate class: Food-grade carbon source	train
+32	"For the genus species Torula sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 55, trophic mechanism: Hetero, reported substrate: Ethanol, substrate class: Food-grade carbon source	val
+33	"For the genus species Xanthobacter sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Hetero, reported substrate: Acetate, Hydrogen, Nitrogen, Light, oxygen, substrate class: Food-grade carbon source	train
+35	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50, trophic mechanism: Hetero, reported substrate: Waste liquor, substrate class: Food industry wastewater	train
+36	"For the genus species Debaryomyces hansenii, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 32, trophic mechanism: Hetero, reported substrate: Brewery spent grains hemicellulosic hydrolysate, substrate class: Food industry wastewater	train
+37	"For the genus species Haloarcula sp. IRU1 , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 76, trophic mechanism: Hetero, reported substrate: petrochemical waste water, substrate class: Petrochemical wastewater	val
+38	"For the genus species Yarrowia lipolytica, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 48 to 54, trophic mechanism: Hetero, reported substrate: Inulin, crude oil, glycerol waste hydrocarbons, substrate class: Petrochemical wastewater	train
+39	"For the genus species Aspergillus flavus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 10, trophic mechanism: Hetero, reported substrate: Rice Bran, substrate class: Food industry solid waste	train
+40	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 11, trophic mechanism: Hetero, reported substrate: Rice Bran, substrate class: Food industry solid waste	train
+41	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 18, trophic mechanism: Hetero, reported substrate: Banana Waste, substrate class: Food industry solid waste	train
+43	"For the genus species Aspergillus niger, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 17 to 20, trophic mechanism: Hetero, reported substrate: Apple pomace, substrate class: Food industry solid waste	train
+44	"For the genus species Aspergillus ochraceus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 10, trophic mechanism: Hetero, reported substrate: Rice Bran, substrate class: Food industry solid waste	train
+45	"For the genus species Bacillus cereus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 68, trophic mechanism: Hetero, reported substrate: Ram horn, substrate class: Food industry solid waste	train
+49	"For the genus species Bacillus subtilis , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 71, trophic mechanism: Hetero, reported substrate: Ram horn, substrate class: Food industry solid waste	train
+50	"For the genus species Candida crusei, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 48, trophic mechanism: Hetero, reported substrate: Cheese Whey, substrate class: Food industry solid waste	train
+51	"For the genus species Candida tropicalis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 31, trophic mechanism: Hetero, reported substrate: Bagasse, substrate class: Food industry solid waste	train
+52	"For the genus species Candida utilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 29, trophic mechanism: Hetero, reported substrate: Poultry litter , substrate class: Food industry solid waste	train
+54	"For the genus species Cladosporium cladosporioides, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 10, trophic mechanism: Hetero, reported substrate: Rice Bran, substrate class: Food industry solid waste	train
+55	"For the genus species Escherichia coli, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 66, trophic mechanism: Hetero, reported substrate: ram horn, substrate class: Food industry solid waste	train
+56	"For the genus species Fusarium semitectum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 10, trophic mechanism: Hetero, reported substrate: Rice Bran, substrate class: Food industry solid waste	train
+57	"For the genus species Hanseniaspora uvarum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 49, trophic mechanism: Hetero, reported substrate: Spoiled date palm fruits, substrate class: Food industry solid waste	train
+58	"For the genus species Kluyveromyces marxianus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 43, trophic mechanism: Hetero, reported substrate: Cheese Whey, substrate class: Food industry solid waste	train
+59	"For the genus species Kluyveromyces marxianus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 59, trophic mechanism: Hetero, reported substrate: Orange pulp, molasses, brewer's spent grain, whey, potato pulp, substrate class: Food industry solid waste	train
+60	"For the genus species Monascus ruber, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 10, trophic mechanism: Hetero, reported substrate: Rice Bran, substrate class: Food industry solid waste	train
+61	"For the genus species Penicillium citrinum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 10, trophic mechanism: Hetero, reported substrate: Rice Bran, substrate class: Food industry solid waste	test
+62	"For the genus species Saccharomyces cerevisiae, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 24, trophic mechanism: Hetero, reported substrate: Orange pulp, molasses, brewer's spent grain, substrate class: Food industry solid waste	train
+63	"For the genus species Trichoderma harzianum, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 34, trophic mechanism: Hetero, reported substrate: Cheese Whey, substrate class: Food industry solid waste	train
+66	"For the genus species Aquificales sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto, reported substrate: Hydrogen, oxygen, carbon dioxide, ammonia, substrate class: Waste gas, CO2	train
+67	"For the genus species Arthrospira maxima, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 60 to 71, trophic mechanism: Auto, reported substrate: CO2 + C rich water, substrate class: Waste gas, CO2	train
+69	"For the genus species Chlamydomonas sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto (Algae), reported substrate: CO2 (photosynthesis), acetate+light , substrate class: Waste gas, CO2	train
+70	"For the genus species Chlorella pyrenoidosa , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 45 to 67, trophic mechanism: Auto (Algae), reported substrate: CO2 + C rich water, substrate class: Waste gas, CO2	train
+71	"For the genus species Chlorella pyrenoidosa , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto (Algae), reported substrate: CO2 (photosynthesis), substrate class: Waste gas, CO2	train
+72	"For the genus species Chlorella sorokiniana, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 46 to 65, trophic mechanism: Auto (Algae), reported substrate: CO2 + C rich water, substrate class: Waste gas, CO2	train
+73	"For the genus species Chlorella sorokiniana, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto (Algae), reported substrate: CO2 (photosynthesis), substrate class: Waste gas, CO2	train
+75	"For the genus species Chlorella vulgaris, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 42 to 55, trophic mechanism: Auto (Algae), reported substrate: CO2 + C rich water, substrate class: Waste gas, CO2	train
+76	"For the genus species Chlorobium sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto, reported substrate: CO2 (photolithotrophic oxidizer of sulphur), substrate class: Waste gas, CO2	train
+77	"For the genus species Chondrus crispus, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto (Algae), reported substrate: CO2 (photosynthesis), substrate class: Waste gas, CO2	train
+78	"For the genus species Desmodesmus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 60 to 70, trophic mechanism: Auto (Algae), reported substrate: CO2 + C rich water, substrate class: Waste gas, CO2	test
+79	"For the genus species Euglena gracilis, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 50 to 70, trophic mechanism: Auto (Algae), reported substrate: CO2 + C rich water, substrate class: Waste gas, CO2	train
+80	"For the genus species Nostoc sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto, reported substrate: CO2 (photosynthesis), substrate class: Waste gas, CO2	val
+81	"For the genus species Porphyridium sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto (Red algae), reported substrate: CO2 (photosynthesis), substrate class: Waste gas, CO2	test
+82	"For the genus species Scenedesmus obliquus , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 30 to 50 , trophic mechanism: Auto (Algae), reported substrate: CO2 + C rich water, substrate class: Waste gas, CO2	train
+83	"For the genus species Scenedesmus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: nan, trophic mechanism: Auto (Algae), reported substrate: CO2 (photosynthesis), substrate class: Waste gas, CO2	train
+85	"For the genus species Spirulina sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 55 to 70, trophic mechanism: Auto, reported substrate: CO2 (photosynthesis), substrate class: Waste gas, CO2	train
+86	"For the genus species Aneurinibacillus sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 67 to 73, trophic mechanism: Hetero, reported substrate: methane, substrate class: Waste gas, methane	train
+87	"For the genus species Brevibacillus agri, please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 67 to 73, trophic mechanism: Hetero, reported substrate: methane, substrate class: Waste gas, methane	train
+88	"For the genus species Methylococcus capsulatus , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 67 to 73, trophic mechanism: Hetero, reported substrate: methane, substrate class: Waste gas, methane	train
+89	"For the genus species Methylomonas sp. , please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 69, trophic mechanism: Hetero, reported substrate: methane salt broth, substrate class: Waste gas, methane	test
+90	"For the genus species Ralstonia sp., please find the reported protein % dry mass, trophic mechanism, reported substrate and substrate class, from the following paper(s).
+
+Please give your answer in a concise ""reported protein % dry mass: [answer], trophic mechanism: [answer], reported substrate: [answer], substrate class: [answer]"" format.
+
+If the information cannot be found, then please respond with: ""The literature provided does not contain the requested information, for the microbial species specified.""
+
+Find the information from the PDF text of the following paper(s):
+
+(Content of paper redacted, as it may be private. Please find paper according to supplementary materials of Piercy et al. (2023), if you wish to build this prompt.)"	Protein % dry mass: 67 to 73, trophic mechanism: Hetero, reported substrate: methane, substrate class: Waste gas, methane	train
