@@ -4,7 +4,7 @@ import json
 from tqdm import tqdm
 
 # Configure key variables
-API_KEY = 'YOUR-API-KEY'
+API_KEY = 'YOUR-API-KEY'  # Change to your own OpenAI API key
 TSV_FILE = 'final_prompts_assigned.tsv'
 TRAIN_JSONL = 'train.jsonl'
 VAL_JSONL = 'val.jsonl'
